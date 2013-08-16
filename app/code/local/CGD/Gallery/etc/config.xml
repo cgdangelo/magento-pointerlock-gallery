@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CGD_Gallery>
+            <version>1.0.0</version>
+        </CGD_Gallery>
+    </modules>
+    <global>
+        <blocks>
+            <cgd_gallery>
+                <class>CGD_Gallery_Block</class>
+            </cgd_gallery>
+        </blocks>
+        <helpers>
+            <cgd_gallery>
+                <class>CGD_Gallery_Helper</class>
+            </cgd_gallery>
+        </helpers>
+        <models>
+            <cgd_gallery>
+                <class>CGD_Gallery_Model</class>
+            </cgd_gallery>
+        </models>
+    </global>
+</config>

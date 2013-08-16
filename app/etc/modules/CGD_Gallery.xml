@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CGD_Gallery>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </CGD_Gallery>
+    </modules>
+</config>
