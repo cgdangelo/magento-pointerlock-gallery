@@ -22,4 +22,13 @@
             </cgd_gallery>
         </models>
     </global>
+    <frontend>
+        <layout>
+            <updates>
+                <gallery>
+                    <file>gallery.xml</file>
+                </gallery>
+            </updates>
+        </layout>
+    </frontend>
 </config>
